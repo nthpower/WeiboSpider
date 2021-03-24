@@ -5,5 +5,5 @@ chardet==3.0.4
 idna==2.7
 pyasn1==0.4.4
 requests==2.19.1
-rsa==3.4.2
+rsa==4.1
 urllib3==1.23
